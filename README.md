@@ -28,7 +28,7 @@ PRTKL is the core web-service engine. To orchestrate the entire pipeline, you wi
 First, grab the code and install the required Node packages:
 
 ```bash
-git clone https://github.com/your-username/prtkl.git
+git clone https://github.com/nnordh21/prtkl
 cd prtkl
 npm install
 ```
