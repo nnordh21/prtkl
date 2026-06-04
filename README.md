@@ -17,8 +17,8 @@ PRTKL is the core web-service engine. To orchestrate the entire pipeline, you wi
 * **Node.js** (v18+ recommended) – To power the web service.
 * **Supabase** – Our all-in-one backend (Database, Auth, and Vector extensions).
 * **Ollama** – For running your LLM locally.
-* **Cloudflare Tunnel** – Crucial if your web service is hosted online but needs a secure bridge to your local Ollama instance (covered in the Coolify section).
 * *(Optional)* **Coolify** – For easy self-hosted deployment.
+* *(Optional)* **Cloudflare Tunnel** – Crucial if your web service is hosted online but needs a secure bridge to your local Ollama instance (covered in the Coolify section).
 
 ---
 
